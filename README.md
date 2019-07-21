@@ -1,3 +1,6 @@
-# ios-motion-correction
+# motion-correction-project-files
 
-### opencv2 library not included
+The opencv2 library is not included in the project files.
+
+C++ code for the motion correction agorithm can be found in OpenCVWrapper.mm.
+
